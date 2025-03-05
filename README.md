@@ -60,6 +60,8 @@
 - [The Aurora Guy](https://theauroraguy.com/pages/webcams)
 - [Space Weather Live](https://www.spaceweatherlive.com/en/auroral-activity/webcams.html)
 - [Meteo Blue (Leknes, Norway)](https://www.meteoblue.com/en/weather/webcams/leknes_norway_7626400)
+- [Windy.com](https://www.windy.com/?67.748,25.299,8,p:cams)
+- [Auroras webcams](https://pomeh.github.io/aurora-cams/)
 
 ## Sensors
 
