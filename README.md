@@ -27,7 +27,6 @@
 - [Integrated Space Weather Analysis (ISWA) Web app](https://iswa.ccmc.gsfc.nasa.gov/IswaSystemWebApp/), by Community Coordinated Modeling Center (CCMC)
 - [norlys live](https://norlys.live/dashboard)
 
-
 ## Web Sites
 
 - [Space Weather Prediction Center](https://www.swpc.noaa.gov/)
@@ -38,6 +37,13 @@
 - [Soft Serve News](https://cdn.softservenews.com/Aurora.htm)
 - [The Aurora Guy](https://theauroraguy.com/)
 - [norlys Model](https://norlys.live/)
+
+## Earth Wheather
+
+- [Yr.no (Norway)](https://www.yr.no/en)
+- [FMI Weather (Finland)](https://en.ilmatieteenlaitos.fi/)
+- [Windy.com (generalist)](https://www.windy.com/)
+- [Meteo Blue (generalist)](https://www.meteoblue.com/en/weather/forecast/week)
 
 ## Mobile apps
 
@@ -62,6 +68,7 @@
 - [Meteo Blue (Leknes, Norway)](https://www.meteoblue.com/en/weather/webcams/leknes_norway_7626400)
 - [Windy.com](https://www.windy.com/?67.748,25.299,8,p:cams)
 - [Auroras webcams](https://pomeh.github.io/aurora-cams/)
+- [leibniz institute of atmospheric physics (Germany)](https://www.iap-kborn.de/en/research/department-optical-soundings-and-sounding-rockets/instruments-and-models/nlc-cameras/overview/)
 
 ## Sensors
 
