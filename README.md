@@ -68,6 +68,7 @@
 - [Meteo Blue (Leknes, Norway)](https://www.meteoblue.com/en/weather/webcams/leknes_norway_7626400)
 - [Windy.com](https://www.windy.com/?67.748,25.299,8,p:cams)
 - [Auroras webcams](https://pomeh.github.io/aurora-cams/)
+- [Northern ligths alert app](https://nlalert.fi/forecast/aurora-cameras)
 - [leibniz institute of atmospheric physics (Germany)](https://www.iap-kborn.de/en/research/department-optical-soundings-and-sounding-rockets/instruments-and-models/nlc-cameras/overview/)
 
 ## Sensors
