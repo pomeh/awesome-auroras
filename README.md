@@ -93,14 +93,18 @@ Note: Some of these groups are "private" groups, so you need to join the group p
 
 ## Webcams
 
-- [Allsky cams](https://www.thomasjacquin.com/allsky-map/) by Thomas Jacquin
-- [The Aurora Guy](https://theauroraguy.com/pages/webcams)
-- [Space Weather Live](https://www.spaceweatherlive.com/en/auroral-activity/webcams.html)
-- [Auroras webcams](https://pomeh.github.io/aurora-cams/)
-- [Northern ligths alert app](https://nlalert.fi/forecast/aurora-cameras)
+- [The Aurora Guy (list)](https://theauroraguy.com/pages/webcams)
+- [Space Weather Live (list)](https://www.spaceweatherlive.com/en/auroral-activity/webcams.html)
+- [Northern ligths alert app (list)](https://nlalert.fi/forecast/aurora-cameras)
+- [Lights Over Lapland (list)](https://lightsoverlapland.com/aurora-webcam/)
+- [Auroras webcams (map)](https://pomeh.github.io/aurora-cams/)
+- [Tromsø Geophysical Observatory (list)](https://fox.phys.uit.no/ASC/)
+- [Roundshot webcam (map)](https://www.roundshot.com/en/livecam-references.html/102)
+- [Explore.org Aurora cams (list)](https://explore.org/livecams/aurora-borealis-northern-lights/aurora-cam)
 - [Meteo Blue (Leknes, Norway)](https://www.meteoblue.com/en/weather/webcams/leknes_norway_7626400)
 - [Windy.com](https://www.windy.com/?67.748,25.299,8,p:cams)
-- [Leibniz institute of atmospheric physics (Germany)](https://www.iap-kborn.de/en/research/department-optical-soundings-and-sounding-rockets/instruments-and-models/nlc-cameras/overview/)
+- [Allsky cams (map)](https://www.thomasjacquin.com/allsky-map/) by Thomas Jacquin
+- [Leibniz institute of atmospheric physics, Germany (list)](https://www.iap-kborn.de/en/research/department-optical-soundings-and-sounding-rockets/instruments-and-models/nlc-cameras/overview/)
 
 ## Sensors
 
