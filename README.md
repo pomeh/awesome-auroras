@@ -40,6 +40,7 @@ A curated hand-picked list of awesome ressources for any serious or new aurora c
 - [Soft Serve News](https://cdn.softservenews.com/Aurora.htm)
 - [The Aurora Guy](https://theauroraguy.com/)
 - [norlys Model](https://norlys.live/)
+- [CCMC CME Scoreboard (Community Coordinated Modeling Center)](https://kauai.ccmc.gsfc.nasa.gov/CMEscoreboard/)
 
 ## Earth Wheather
 
