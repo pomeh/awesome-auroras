@@ -29,6 +29,7 @@ A curated hand-picked list of awesome ressources for any serious or new aurora c
 
 - [Integrated Space Weather Analysis (ISWA) Web app](https://iswa.ccmc.gsfc.nasa.gov/IswaSystemWebApp/), by Community Coordinated Modeling Center (CCMC)
 - [norlys live](https://norlys.live/dashboard)
+- [Pulsar](https://dashboard.pulsar-si.com/)
 
 ## Web Sites
 
@@ -65,12 +66,21 @@ A curated hand-picked list of awesome ressources for any serious or new aurora c
   * [Android](https://play.google.com/store/apps/details?id=com.smallbouldering.aurorawatchuk)
   * [iOS](https://apps.apple.com/gb/app/aurorawatch-uk-aurora-alerts/id946141347)
 
-## Facebook (with live publications)
+## Facebook (with live publications & stories)
 
 - [Vincent Ledvina "the Aurora guy"](https://www.facebook.com/vincentledvina)
 - [Space Weather Live](https://www.facebook.com/SpaceWeatherLive)
 - [SolarHam](https://www.facebook.com/SolarHam)
 - [Space Weather Watch](https://www.facebook.com/spacewxwatch)
+- [Night Lights Films (a lot of infos in FB stories)](https://www.facebook.com/nightlightsfilms)
+- [Glendale App, Aurora Alerts UK (Telegram Canal)](https://t.me/GlendaleApp)
+
+## Alert channels
+
+- [Tony Bendele, REAL-TIME AURORA/SOLAR ALERTS (FB Messenger)](https://www.messenger.com/channel/tonybendele2016)
+- [Vincent Ledvina (Instagram canal)](https://www.instagram.com/channel/AbYj-2Pii3bzpYri/)
+- [Lorenzo Mirandola (Instagram canal)](https://www.instagram.com/channel/AbYpiX1q1adHCL7P/)
+- [Astronophilos (Instagram canal, FRENCH)](https://ig.me/j/AbYmVwXR3Arnqqzh/)
 
 ## Facebook alerts groups (with forecast publications)
 
