@@ -42,6 +42,8 @@ A curated hand-picked list of awesome ressources for any serious or new aurora c
 - [The Aurora Guy](https://theauroraguy.com/)
 - [norlys Model](https://norlys.live/)
 - [CCMC CME Scoreboard (Community Coordinated Modeling Center)](https://kauai.ccmc.gsfc.nasa.gov/CMEscoreboard/)
+- [Space Weather Tracker](https://www.spaceweathertracker.com/)
+
 
 ## Earth Wheather
 
